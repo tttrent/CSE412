@@ -1,4 +1,4 @@
-# CSE412
+# SUN CO
 User guide (Installations to run Application):
 1. Ensure that you have the following items downloaded: VSCode (or preferred IDE) and node.js (Node.js (nodejs.org)).
 2. Create a new folder called Application in your preferred location to store the application files.
